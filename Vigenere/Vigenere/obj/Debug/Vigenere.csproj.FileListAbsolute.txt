@@ -1,0 +1,10 @@
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.frVigenere.resources
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+C:\Users\mario\OneDrive\Escritorio\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
